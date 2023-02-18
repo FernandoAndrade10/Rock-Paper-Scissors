@@ -36,7 +36,7 @@ Following the Elf's instructions for the second column, what would your total sc
 
 ### Executing program
 
-* To the run the program navigate to CalorieCounting.cpp in the Solution Explorer
+* To the run the program navigate to RockPaperScissors.cpp in the Solution Explorer
 * Navigate to Debug menu and select Start or f5 on windows.
 
 ## Authors
